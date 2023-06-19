@@ -41,11 +41,9 @@ First, let's talk about the trends in Last-mile delivery, so we can then look at
     - don't pay driver
     - labour laws
     - curbside to door?
-4. Hybrid (Insource, Outsource)
-5. Delivery Partner Networks
-6. MFC, Dark Stores
-7. Mobile Cross Dock
-8. Smart WH Layout
+4. Hybrid (Insource, Outsource), incl. DPN
+5. MFC, Dark Stores
+6. Mobile Cross Dock
 
 
 ## Delivery Management: The Great Enabler
@@ -54,8 +52,8 @@ First, let's talk about the trends in Last-mile delivery, so we can then look at
 DMS needs to keep up
 - Drones, AVs: You can't call the driver
 - EVs: Shorter routes, plan for charging
-- In/Outsourcing, DPNs: Integrations
 - AVs: Reactive algorithms -> route replanning, traffic, early/late
+- In/Outsourcing, DPNs: Integrations
 - MFCs: Route planning integrated with Inventory
 - Customer Communication: Channel of choice
 
